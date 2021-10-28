@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z+oofax3ICOO5cIdwTtoDKt7wner5IW1h2Boa0et96AHppWOR2MHaqxZxbdCxgQ5CrqVHJSAFCeWC3LUmW1pEA==",
+  "dgSpecHash": "4dEBzqPjH/MrNNAheKrBmqd4bZF65+8EnYvrLZXaBnBvVdMtV58X0kwOJhJOi/TWo/VvAxB6wdk1F8TWhqm2Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danco\\source\\repos\\RhModuloTeste\\RhModuloTeste.csproj",
+  "projectFilePath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModuloTeste\\RhModuloTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danco\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\danco\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

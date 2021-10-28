@@ -8480,11 +8480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danco\\source\\repos\\RhModulo\\RhModulo.csproj",
+      "projectUniqueName": "C:\\Users\\danco\\source\\repos\\tcc\\RhModulo\\RhModulo.csproj",
       "projectName": "RhModulo",
-      "projectPath": "C:\\Users\\danco\\source\\repos\\RhModulo\\RhModulo.csproj",
+      "projectPath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModulo\\RhModulo.csproj",
       "packagesPath": "C:\\Users\\danco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danco\\source\\repos\\RhModulo\\obj\\",
+      "outputPath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModulo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

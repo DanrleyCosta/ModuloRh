@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k00d3JwNWQ5SOMnOLg5Y+UNXJGG44fV91S7EZpGBYts7JZvTur4jcIinPqdTgtooGRXE/qHyn8x46Vn0hysSog==",
+  "dgSpecHash": "I9ipNW93nnZaRRFxj5F23lT5xEOlduS9PWKLliQ0R67ucRprWponex9Oac1gZ30IK162FmbY0R0vOTsmcOJkng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danco\\source\\repos\\RhModulo\\RhModulo.csproj",
+  "projectFilePath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModulo\\RhModulo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danco\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\danco\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -9678,11 +9678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danco\\source\\repos\\RhModuloTeste\\RhModuloTeste.csproj",
+      "projectUniqueName": "C:\\Users\\danco\\source\\repos\\tcc\\RhModuloTeste\\RhModuloTeste.csproj",
       "projectName": "RhModuloTeste",
-      "projectPath": "C:\\Users\\danco\\source\\repos\\RhModuloTeste\\RhModuloTeste.csproj",
+      "projectPath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModuloTeste\\RhModuloTeste.csproj",
       "packagesPath": "C:\\Users\\danco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danco\\source\\repos\\RhModuloTeste\\obj\\",
+      "outputPath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModuloTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9702,8 +9702,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\danco\\source\\repos\\RhModulo\\RhModulo.csproj": {
-              "projectPath": "C:\\Users\\danco\\source\\repos\\RhModulo\\RhModulo.csproj"
+            "C:\\Users\\danco\\source\\repos\\tcc\\RhModulo\\RhModulo.csproj": {
+              "projectPath": "C:\\Users\\danco\\source\\repos\\tcc\\RhModulo\\RhModulo.csproj"
             }
           }
         }
