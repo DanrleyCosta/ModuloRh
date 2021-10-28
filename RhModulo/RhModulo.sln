@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhModulo", "RhModulo.csproj", "{6AA6941A-E4C7-4A26-A3F6-6F9E18DF0028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RhModuloTeste", "..\RhModuloTeste\RhModuloTeste.csproj", "{B0ADED10-11EA-44EA-AFB7-06C9DD525C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA6941A-E4C7-4A26-A3F6-6F9E18DF0028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA6941A-E4C7-4A26-A3F6-6F9E18DF0028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA6941A-E4C7-4A26-A3F6-6F9E18DF0028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA6941A-E4C7-4A26-A3F6-6F9E18DF0028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0ADED10-11EA-44EA-AFB7-06C9DD525C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0ADED10-11EA-44EA-AFB7-06C9DD525C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0ADED10-11EA-44EA-AFB7-06C9DD525C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0ADED10-11EA-44EA-AFB7-06C9DD525C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B7606E-02CF-4FAC-BADA-1AB2C1CD30DB}
+	EndGlobalSection
+EndGlobal
